@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 About Me
+
+I´m a bachelor´s student at Kristiania University College, studying Frontend and- Mobile Development. I also have a one-year degree in UX Design at Noroff School of Technology and Digital Media. I enjoy using my skills in design and UX for frontend development, which includes technologies as for example Figma. For frontend, I enjoy technologies like HTML, CSS, JavaScript, React, Swift (iOS). 
